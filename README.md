@@ -1,24 +1,28 @@
 # Web-Technologies SP25
-Minhal Ahmed
-Roll Number: SP22-BSE-090
-Course Instructor: Sir Usman Akram
+
+**Minhal Ahmed**  
+**Roll Number:** SP22-BSE-090  
+**Course Instructor:** Sir Usman Akram  
+
+## Repository Structure  
+
 
 Repository Structure:
-Your_Repository_Name/
-│── Assignments/
-│ ├── Assignment_1/
-│ ├── Assignment_2/
-│ ├── Assignment_3/
-│ ├── Assignment_4/
-│
-│── Lab_Tasks/
-│ ├── Lab_Task_1/
-│ ├── Lab_Task_2/
-│ ├── Lab_Task_3/
-│ ├── Lab_Task_4/
-│
-│── Exams/
-│ ├── Midterm/
-│ ├── Final/
-│
-│── README.md 
+Your_Repository_Name/  <br>
+│── Assignments/   <br>
+│ ├── Assignment_1/   <br>
+│ ├── Assignment_2/   <br>
+│ ├── Assignment_3/  <br>
+│ ├── Assignment_4/  <br>
+│ <br>
+│── Lab_Tasks/  <br>
+│ ├── Lab_Task_1/  <br>
+│ ├── Lab_Task_2/  <br>
+│ ├── Lab_Task_3/  <br>
+│ ├── Lab_Task_4/  <br>
+│  <br>
+│── Exams/  <br>
+│ ├── Midterm/  <br>
+│ ├── Final/  <br>
+│  <br>
+│── README.md  <br>
