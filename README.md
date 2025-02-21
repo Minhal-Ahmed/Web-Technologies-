@@ -8,7 +8,7 @@
 
 
 Repository Structure:
-Your_Repository_Name/  <br>
+Web-Technologies/  <br>
 │── Assignments/   <br>
 │ ├── Assignment_1/   <br>
 │ ├── Assignment_2/   <br>
